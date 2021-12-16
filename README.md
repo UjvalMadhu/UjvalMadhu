@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Embedded Systems, Signal Processing and Data Scinence
 - 💞️ I’m looking to collaborate with individuals and projects that help in learning new and/or challenging concepts.
 - 📫 How to reach me: ujvalmadhu003@gmail.com
+- Website: https://ujvalmadhu.github.io/UjvalMadhuWeb.github.io/
 
 Motivation: I am using this space to share, learn and collaborate with other passionate individuals, I post repos that consists of the projects that I do while trying to learn new concepts and try to make them as beginner friendly as possible, so that anyone in a similar path can make use of them easily.
 
