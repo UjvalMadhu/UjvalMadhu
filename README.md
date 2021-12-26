@@ -7,7 +7,7 @@
 
 Motivation: I am using this space to share, learn and collaborate with other passionate individuals, I post repos that consists of the projects that I do while trying to learn new concepts and try to make them as beginner friendly as possible, so that anyone in a similar path can make use of them easily.
 
-If you need any help, have queries or have any detailed suggestions, do reach out to through email.
+If you need any help, have queries or have any detailed suggestions, do reach out through email.
 
 Thank you for visiting, Much Love !!! 
 
