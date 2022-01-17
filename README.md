@@ -1,5 +1,5 @@
 - 🙏 Greetings, I’m @UjvalMadhu
-- 👀 I’m interested in Deep Technology, AGI, Open Source, World History, World Peace, Sustainability and Climate Chnage.
+- 👀 I’m interested in Deep Technology, AGI, Open Source, World History, World Peace, Sustainability and Climate Change.
 - 🌱 I’m currently studying Machine Learning, Deep Learning, Embedded Systems, Signal Processing and Data Scinence
 - 💞️ I’m looking to collaborate with individuals and projects that help in learning new and/or challenging concepts.
 - 📫 How to reach me: ujvalmadhu003@gmail.com
