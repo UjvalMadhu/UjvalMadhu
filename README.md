@@ -1,7 +1,7 @@
 - 🙏 Greetings, I’m @UjvalMadhu
-- 👀 I’m interested in Deep Technology, AGI, Quantum Physics, Open Source, World History, World Peace, Sustainability and Climate Change.
-- 🌱 I’m currently studying Machine Learning, Deep Learning, Embedded Systems, Signal Processing, Quantum Mechanics and Data Scinence
-- 💞️ I’m looking to collaborate with individuals and projects that help in learning new and/or challenging concepts.
+- 👀 I’m interested in Digital Systems and using them to better our world.
+- 🌱 I’m currently building my expertise in digital systems design and verification + tinkering with some other stuff like Quantum mechanics, Artifical Intelligence, Art etc 
+- 💞️ I’m looking to collaborate with individuals and on projects that help in learning new and/or challenging concepts.
 - 📫 How to reach me: ujvalmadhu003@gmail.com
 - Website: https://ujvalmadhu.github.io/UjvalMadhuWeb.github.io/
 
