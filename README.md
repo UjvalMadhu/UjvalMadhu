@@ -10,6 +10,7 @@ I am using this space to share, learn, and collaborate with other passionate ind
 
 ## Project Index
 My current major projects are listed here:
+
 |--------|----------|------------|
 |:-------|:---------|:-----------|
 | Sl No. | Project | Description |
