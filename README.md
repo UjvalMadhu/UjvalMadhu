@@ -7,8 +7,11 @@
 
 I am using this space to share, learn, and collaborate with other passionate individuals. I post repos that consist of the projects that I do while trying to learn new concepts. I try to make them as beginner-friendly as possible so that anyone on a similar path can easily use them.
 
+
+## Project Index
 My current major projects are listed here:
-|------|----------|--------------|
+|--------|----------|------------|
+|:-------|:---------|:-----------|
 | Sl No. | Project | Description |
 | 1.    | (RTL_Development)[https://github.com/UjvalMadhu/RTL_Development] | This repo contains Synthesizable RTL Design Projects using Verilog and SV |
 | 2.    | (Verification_Projects)[https://github.com/UjvalMadhu/Verification-Projects] | This repo contains design verification projects using SV, UVM, and Python Frameworks |
