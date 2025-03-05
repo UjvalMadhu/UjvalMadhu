@@ -12,12 +12,11 @@ I am using this space to share, learn, and collaborate with other passionate ind
 My current major projects are listed here:
 
 |--------|----------|------------|
-|:-------|:---------|:-----------|
 | Sl No. | Project | Description |
-| 1.    | (RTL_Development)[https://github.com/UjvalMadhu/RTL_Development] | This repo contains Synthesizable RTL Design Projects using Verilog and SV |
-| 2.    | (Verification_Projects)[https://github.com/UjvalMadhu/Verification-Projects] | This repo contains design verification projects using SV, UVM, and Python Frameworks |
-| 3.    | (C Projects)[https://github.com/UjvalMadhu/C-Projects] | This repo contains C and C++ projects |
-| 4.    | (Python Projects)[https://github.com/UjvalMadhu/Python-Projects] | This repo contains python projects |
+| 1.    | [RTL_Development](https://github.com/UjvalMadhu/RTL_Development) | This repo contains Synthesizable RTL Design Projects using Verilog and SV |
+| 2.    | [Verification_Projects](https://github.com/UjvalMadhu/Verification-Projects) | This repo contains design verification projects using SV, UVM, and Python Frameworks |
+| 3.    | [C Projects](https://github.com/UjvalMadhu/C-Projects) | This repo contains C and C++ projects |
+| 4.    | [Python Projects](https://github.com/UjvalMadhu/Python-Projects) | This repo contains python projects |
 
 
 
@@ -26,6 +25,6 @@ If you need any help or have questions or suggestions, feel free to reach out th
 Thank you for visiting, Much Love !!! 
 
 <!---
-UjvalMadhu/UjvalMadhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UjvalMadhu/UjvalMadhu is a ✨ special ✨ repository because its `README.md` [this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
