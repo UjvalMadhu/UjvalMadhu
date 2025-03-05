@@ -11,8 +11,8 @@ I am using this space to share, learn, and collaborate with other passionate ind
 ## Project Index
 My current major projects are listed here:
 
-|--------|----------|------------|
 | Sl No. | Project | Description |
+|--------|----------|------------|
 | 1.    | [RTL_Development](https://github.com/UjvalMadhu/RTL_Development) | This repo contains Synthesizable RTL Design Projects using Verilog and SV |
 | 2.    | [Verification_Projects](https://github.com/UjvalMadhu/Verification-Projects) | This repo contains design verification projects using SV, UVM, and Python Frameworks |
 | 3.    | [C Projects](https://github.com/UjvalMadhu/C-Projects) | This repo contains C and C++ projects |
