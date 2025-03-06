@@ -22,7 +22,7 @@ My current major projects are listed here:
 
 If you need any help or have questions or suggestions, feel free to reach out through email.
 
-Thank you for visiting, Much Love !!! 
+Thank you for visiting, Peace !!! 
 
 <!---
 UjvalMadhu/UjvalMadhu is a ✨ special ✨ repository because its `README.md` [this file) appears on your GitHub profile.
