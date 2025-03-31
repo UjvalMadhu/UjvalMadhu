@@ -17,6 +17,7 @@ My current major projects are listed here:
 | 2.    | [Verification_Projects](https://github.com/UjvalMadhu/Verification-Projects) | This repo contains design verification projects using SV, UVM, and Python Frameworks |
 | 3.    | [C Projects](https://github.com/UjvalMadhu/C-Projects) | This repo contains C and C++ projects |
 | 4.    | [Python Projects](https://github.com/UjvalMadhu/Python-Projects) | This repo contains python projects |
+| 5. | [RISC-V Projects](https://github.com/UjvalMadhu/RISC_V_VSD)| This repo consists of projects exploring RISC-V cores |
 
 
 
